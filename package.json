@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "asciify-image": "^0.1.10",
+    "better-sqlite3": "^8.4.0",
+    "chalk": "4.0",
+    "discord.js-selfbot-v13": "^2.14.8",
+    "moment": "^2.29.4",
+    "node-fetch": "^3.2.6",
+    "quick.db": "^9.1.7",
+    "tinygradient": "^1.1.5"
+  }
+}
