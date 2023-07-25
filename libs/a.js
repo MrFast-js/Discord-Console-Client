@@ -1,2 +1,1 @@
-
-asd
+console.log("A");
